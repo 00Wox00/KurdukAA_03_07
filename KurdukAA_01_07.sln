@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KurdukAA_01_07", "KurdukAA_01_07\KurdukAA_01_07.vcxproj", "{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Debug|x64.ActiveCfg = Debug|x64
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Debug|x64.Build.0 = Debug|x64
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Debug|x86.ActiveCfg = Debug|Win32
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Debug|x86.Build.0 = Debug|Win32
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Release|x64.ActiveCfg = Release|x64
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Release|x64.Build.0 = Release|x64
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Release|x86.ActiveCfg = Release|Win32
+		{B18EFEBA-8AB1-421C-BA5B-8D986FF8B467}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B51D55-2AFA-4C17-8D1A-CD08B0E1BE5E}
+	EndGlobalSection
+EndGlobal
